@@ -38,10 +38,6 @@
 	opacity: 1;
 }
 
-a:hover img {
-	opacity: 0.6;
-}
-
 .white-bar-container {
 	margin-top: 20px;
 	overflow-x: hidden;
