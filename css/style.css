@@ -89,3 +89,12 @@ body {
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 }
+
+.footer {
+	position:absolute;
+	bottom: 10px;
+	font-size: 10px;
+	left: 50%;
+	transform: translateX(-50%);
+	color: #fff;
+}
